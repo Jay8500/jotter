@@ -1,0 +1,11 @@
+{
+  "name": "bjotter",
+  "version": "1.0.0",
+  "description": "jotter back integration and services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jay",
+  "license": "ISC"
+}
